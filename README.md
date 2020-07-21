@@ -1,5 +1,7 @@
 # Who am I?
-EUC guy turned automator.  From Milwaukee Wisconsin USA...
+- EUC guy turned automator.  
+- From Milwaukee Wisconsin USA. 
+- Currently with [AHEAD](https://www.thinkahead.com/)
 
 ## Where am I?
 
